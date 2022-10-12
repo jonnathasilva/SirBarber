@@ -1,7 +1,7 @@
 export const Card = ({ url, title, children }) => (
   <div className="w-auto h-auto flex flex-col">
     <div className="lg:flex-1">
-      <img src={`./imgs/${url}.png`} alt={url} className="w-full h-auto" />
+      <img src={`./imgs/${url}.webp`} alt={url} className="w-full h-auto" />
     </div>
 
     <div className="p-8 bg-White-300 space-y-2 h-full">

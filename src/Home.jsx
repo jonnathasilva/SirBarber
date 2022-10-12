@@ -40,7 +40,7 @@ export const Home = () => {
 
             <div className="flex-1">
               <img
-                src="./imgs/img-hero-barber-desktop.png"
+                src="./imgs/img-hero-barber-desktop.webp"
                 alt="-hero-barber"
                 className="h-full"
               />
